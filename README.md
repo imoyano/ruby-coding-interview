@@ -6,6 +6,7 @@
 
 - [x] [Reverse an String](reverse-string.rb): Reverse an string recursively
 - [x] [Factorial](factorial-recursive.rb): Calculate the factorial using recursion
+- [x] [Fibonacci](fibonacci-recursive.rb): Calculate fibonacci serial using recursion
 
 ### Strings
 
@@ -14,6 +15,7 @@
 ### Popular
 
 - [x] [Factorial](factorial.rb): Calculate the factorial using iteration
+- [x] [Fibonacci](fibonacci.rb): Calculate fibonacci serial using iteration
 
 ## How to run
 
